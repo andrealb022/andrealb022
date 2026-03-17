@@ -1,3 +1,1 @@
-I am a Master’s student in Computer Engineering – Artificial Intelligence and Intelligent Robotics at the University of Salerno.
-My studies focus on software development, machine learning, and robotics. I am passionate about artificial intelligence, deep learning, and computer vision, with hands-on experience in Python and PyTorch. 
-I have strong problem-solving skills and enjoy working in a team environment, always driven by curiosity to learn new and interesting things.
+I am a Master’s graduate in Computer Engineering – Artificial Intelligence and Intelligent Robotics from the University of Salerno. I specialize in software development, machine learning, and robotics. Passionate about AI, deep learning, and computer vision, I bring hands-on experience with Python and PyTorch. I have strong problem-solving skills, thrive in team environments, and am always driven by a curiosity to learn and build new things.
